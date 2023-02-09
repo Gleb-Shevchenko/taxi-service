@@ -22,9 +22,11 @@ and application. Contains package *WEB-INF* with *.jsp* files.
 
 ## Application start
 
-Make sure you have MySQL, version of TomCat not higher than 9.0.71 installed. 
-Make a fork of this project by this [link][1]. Configure TomCat in your IDE.
-By default, you will be redirected on page *login.jsp*. The access to main functionality will be opened
-after registration process on *index.jsp* page. Feel free to look through opened links.
+* Make sure you have MySQL, version of TomCat not higher than 9.0.71 installed. 
+* Make a fork of this project by this [link][1]. Configure TomCat in your IDE.
+* By default, you will be redirected on page *login.jsp*. 
+* The access to main functionality will be opened
+after registration process on *index.jsp* page. 
+* Feel free to look through opened links.
 
 [1]: https://github.com/Gleb-Shevchenko/taxi-service.git    "link"
